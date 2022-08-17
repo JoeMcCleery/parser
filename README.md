@@ -4,5 +4,5 @@
 ```
 pip3 install -r requirements.txt
 py parser.py
-py parser.py <dir to text file>
+py parser.py <dir to text file containing sentence>
 ```
